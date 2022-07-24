@@ -1,10 +1,10 @@
 ---
 widget: hero
-widget_id: Modifying homepage
+widget_id: welcome
 headless: true
 weight: 10
 title: Materials Theory and Simulation Group
-subtitle: Hello
+subtitle: ThSim
 active: true
 design:
   columns: "1"
@@ -13,7 +13,7 @@ design:
   background:
     image: coders.jpg
     image_darken: 0.2
-hero_media: welcome.jpg
+hero_media: welcom.jpg
 ---
 <br>
 

@@ -3,7 +3,7 @@ widget: pages
 widget_id: adding-news
 headless: true
 weight: 20
-title: Latest News
+title: Recent News
 subtitle: null
 active: true
 content:
