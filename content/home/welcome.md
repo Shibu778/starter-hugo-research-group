@@ -1,14 +1,19 @@
 ---
 widget: hero
-widget_id: Materials
+widget_id: Modifying homepage
 headless: true
 weight: 10
 title: Materials Theory and Simulation Group
-hero_media: welcome.jpg
+subtitle: Hello
+active: true
 design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    image: coders.jpg
+    image_darken: 0.2
+hero_media: welcome.jpg
 ---
 <br>
 
