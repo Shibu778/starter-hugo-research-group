@@ -15,7 +15,15 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: 👋 Welcome to Materials Theory and Simulation Group
+      content: Take a look at what we're working on...
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.7
+        media: anant.png
+    - title: 👋 Welcome to Materials Theory and Simulation Group
       content: Take a look at what we're working on...
       align: center
       background:
